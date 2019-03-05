@@ -1,0 +1,6 @@
+C:\Users\thiag\Source\Repos\CSharp-parte9-EntradaSaida-IO-\csharppt9-aula0\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Users\thiag\Source\Repos\CSharp-parte9-EntradaSaida-IO-\csharppt9-aula0\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\thiag\Source\Repos\CSharp-parte9-EntradaSaida-IO-\csharppt9-aula0\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\thiag\Source\Repos\CSharp-parte9-EntradaSaida-IO-\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Source\Repos\CSharp-parte9-EntradaSaida-IO-\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\thiag\Source\Repos\CSharp-parte9-EntradaSaida-IO-\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
