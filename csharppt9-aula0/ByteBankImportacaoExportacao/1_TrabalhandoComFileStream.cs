@@ -23,7 +23,6 @@ namespace ByteBankImportacaoExportacao
                 Console.ReadLine();
             }
 
-
         }
 
         private static  void EscreverBuffer(byte[] pBuffer, int pBytesLidos)
